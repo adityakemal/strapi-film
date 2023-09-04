@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstapi_film_cms=self.webpackChunkstapi_film_cms||[]).push([[92],{50955:(l,s,t)=>{t.r(s),t.d(s,{default:()=>a});var e=t(67294),_=t(57993),E=t(86706),n=t(36364),P=t(92458);const a=()=>{const i=(0,E.v9)(n._);return e.createElement(_.O4,{permissions:i.settings["api-tokens"].read},e.createElement(P.Z,null))}}}]);
