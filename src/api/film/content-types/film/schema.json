@@ -31,6 +31,12 @@
       "relation": "oneToMany",
       "target": "api::review.review",
       "mappedBy": "film"
+    },
+    "story": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::story.story",
+      "mappedBy": "film"
     }
   }
 }
